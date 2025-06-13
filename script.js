@@ -80,6 +80,6 @@ gift.onclick = () => {
     launchConfetti();
 
     // 🎈 بلالين
-    launchBalloons();
+    launchBalloons();    
   }, 3000);
 };
